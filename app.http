@@ -1,7 +1,7 @@
-GET http://localhost:3000/api/books 
+GET http://localhost:8000/api/books 
 
 ###
-POST http://localhost:3000/api/books
+POST http://localhost:8000/api/books
 Content-Type: application/json
 
 {
@@ -12,10 +12,10 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3000/api/books/9  
+DELETE http://localhost:8000/api/books/9  
 ###
 
-PUT http://localhost:3000/api/books/10
+PUT http://localhost:8000/api/books/10
 Content-Type: application/json
 
 {
