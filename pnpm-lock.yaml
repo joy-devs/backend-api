@@ -17,6 +17,9 @@ importers:
       '@neondatabase/serverless':
         specifier: ^0.9.4
         version: 0.9.4
+      Book-Repo-Tables:
+        specifier: 'link:'
+        version: 'link:'
       axios:
         specifier: ^1.7.2
         version: 1.7.2
